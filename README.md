@@ -1,6 +1,11 @@
 # awesome-pdf
 List of tools for dealing with the wonderful PDF format.
 
+## R
+
+https://github.com/ropensci/fulltext R
+
+
 ## PHP
 
 
@@ -93,6 +98,11 @@ https://github.com/yob/pdf-reader
 ruby
 
 
+https://github.com/shairontoledo/rghost
+ruby
+
+
+
 https://github.com/documentcloud/docsplit
 ruby
 
@@ -118,11 +128,28 @@ ruby
 https://github.com/prawnpdf/pdf-inspector
 ruby
 
+https://github.com/mbleigh/princely
+ruby
+
+https://github.com/jonmagic/grim
+ruby
+
+
 
 
 ## PYTHON
 
+
+
 ## OCAML
+
+https://github.com/ANSSI-FR/caradoc
+ocaml
+
+## HASKELL
+
+https://github.com/Yuras/pdf-toolbox
+haskell
 
 ## JAVA
 
@@ -208,4 +235,39 @@ go
 
 https://github.com/Invoiced/invoice-generator-api
 go
+
+## JAVASCRIPT
+
+https://github.com/marcbachmann/node-html-pdf
+javascript
+
+
+https://github.com/pipwerks/PDFObject
+javascript
+
+https://github.com/astefanutti/decktape
+javascript
+
+https://github.com/dbashford/textract
+javascript
+
+## LATEX
+
+https://github.com/mrzool/cv-boilerplate
+latex
+
+https://github.com/cies/resume
+latex
+
+https://github.com/mrzool/invoice-boilerplate
+latex
+
+## SWIFT
+https://github.com/sgr-ksmt/PDFGenerator
+swift
+
+## C#
+
+https://github.com/pvginkel/PdfiumViewer
+C#
 
