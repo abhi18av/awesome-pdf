@@ -280,6 +280,8 @@ java
 
 ## SCALA
 
+https://github.com/cloudify/sPDF 
+
 ## CLOJURE
 
 https://github.com/clj-pdf/clj-pdf
