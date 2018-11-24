@@ -1,10 +1,23 @@
 # awesome-pdf
 List of tools for dealing with the wonderful PDF format.
 
-## R
 
-* fulltext https://github.com/ropensci/fulltext
+## C#
 
+* PdfiumViewer https://github.com/pvginkel/PdfiumViewer
+
+
+## C++ 
+
+* pdf2htmlEX https://github.com/coolwanglu/pdf2htmlEX
+
+* wkhtmltopdf https://github.com/wkhtmltopdf/wkhtmltopdf
+
+
+* sumatrapdf https://github.com/sumatrapdfreader/sumatrapdf
+
+
+* pdftojson https://github.com/ldenoue/pdftojson
 
 ## PHP
 
@@ -38,26 +51,12 @@ List of tools for dealing with the wonderful PDF format.
 * FPDF https://github.com/Setasign/FPDF
 
 
+## R
 
-
-## C++ 
-
-* pdf2htmlEX https://github.com/coolwanglu/pdf2htmlEX
-
-* wkhtmltopdf https://github.com/wkhtmltopdf/wkhtmltopdf
-
-
-* sumatrapdf https://github.com/sumatrapdfreader/sumatrapdf
-
-
-* pdftojson https://github.com/ldenoue/pdftojson
-
-
+* fulltext https://github.com/ropensci/fulltext
 
 
 ## RUBY
-
-
 
 * pdf https://github.com/mileszs/wicked_pdf
 
@@ -87,11 +86,7 @@ List of tools for dealing with the wonderful PDF format.
 
 * grim https://github.com/jonmagic/grim
 
-
-
-
 ## PYTHON
-
 
 * pdfquery https://github.com/jcushman/pdfquery
 
@@ -202,123 +197,79 @@ List of tools for dealing with the wonderful PDF format.
 
 * gofpdf https://github.com/jung-kurt/gofpdf
 
-https://github.com/signintech/gopdf
-go
+* gopdf https://github.com/signintech/gopdf
 
-https://github.com/unidoc/unidoc
-go
+* unidoc https://github.com/unidoc/unidoc
 
-https://github.com/sajari/docconv
-go
+* docconv https://github.com/sajari/docconv
 
-https://github.com/otiai10/gosseract
-go
+* gosseract https://github.com/otiai10/gosseract
 
-https://github.com/mikeshimura/goreport
-go
+* goreport https://github.com/mikeshimura/goreport
 
-https://github.com/hhrutter/pdfcpu
-go
+* pdfcpu https://github.com/hhrutter/pdfcpu
 
-https://github.com/Invoiced/invoice-generator-api
-go
+* api https://github.com/Invoiced/invoice-generator-api
 
 ## JAVASCRIPT
 
 
-https://github.com/saadq/resumake
-javascript
+* resumake https://github.com/saadq/resumake
 
-https://github.com/fraserxu/electron-pdf
-javascript
+* pdf https://github.com/fraserxu/electron-pdf
 
 
-https://github.com/ebdrup/html2pdf.it
-javascript
+* html2pdf.it https://github.com/ebdrup/html2pdf.it
 
-https://github.com/galkahana/HummusJS
-javascript
+* HummusJS https://github.com/galkahana/HummusJS
 
-https://github.com/jsreport/jsreport
-javascript
+* jsreport https://github.com/jsreport/jsreport
 
-https://github.com/c0bra/markdown-resume-js
-javascript
+* js https://github.com/c0bra/markdown-resume-js
 
+* backslide https://github.com/sinedied/backslide
 
-https://github.com/sinedied/backslide
-javascript
+* chrome https://github.com/westy92/html-pdf-chrome
 
-https://github.com/westy92/html-pdf-chrome
-javascript
+* extract https://github.com/nisaacson/pdf-extract
 
-https://github.com/nisaacson/pdf-extract
-javascript
+* scissors https://github.com/tcr/scissors
 
+* libreoffice https://github.com/vladgolubev/serverless-libreoffice
 
-https://github.com/tcr/scissors
-javascript
+* QuickBill https://github.com/PunitGr/QuickBill
 
-https://github.com/vladgolubev/serverless-libreoffice
-javascript
+* universalviewer https://github.com/UniversalViewer/universalviewer
 
-https://github.com/PunitGr/QuickBill
-javascript
+* html2pdf https://github.com/eKoopmans/html2pdf
 
-https://github.com/UniversalViewer/universalviewer
-javascript
+* jsPDF https://github.com/MrRio/jsPDF
 
-https://github.com/eKoopmans/html2pdf
-javascript
+* pdfmake https://github.com/bpampuch/pdfmake
 
+* api https://github.com/alvarcarto/url-to-pdf-api
 
-https://github.com/MrRio/jsPDF
-javascript
+* pdf https://github.com/diegomura/react-pdf
 
-https://github.com/bpampuch/pdfmake
-javascript
+* pdfkit https://github.com/devongovett/pdfkit
 
-https://github.com/alvarcarto/url-to-pdf-api
-javascript
+* pdf https://github.com/marcbachmann/node-html-pdf
 
-https://github.com/diegomura/react-pdf
-javascript
+* PDFObject https://github.com/pipwerks/PDFObject
 
-https://github.com/devongovett/pdfkit
-javascript
+* decktape https://github.com/astefanutti/decktape
 
-
-
-https://github.com/marcbachmann/node-html-pdf
-javascript
-
-
-https://github.com/pipwerks/PDFObject
-javascript
-
-https://github.com/astefanutti/decktape
-javascript
-
-https://github.com/dbashford/textract
-javascript
+* textract https://github.com/dbashford/textract
 
 ## LATEX
 
-https://github.com/mrzool/cv-boilerplate
-latex
+* cv-boilerplate https://github.com/mrzool/cv-boilerplate
 
-https://github.com/cies/resume
-latex
+* resume https://github.com/cies/resume
 
-https://github.com/mrzool/invoice-boilerplate
-latex
+* invoice-boilerplate https://github.com/mrzool/invoice-boilerplate
 
 ## SWIFT
-https://github.com/sgr-ksmt/PDFGenerator
-swift
 
-## C#
-
-https://github.com/pvginkel/PdfiumViewer
-C#
+* PDFGenerator https://github.com/sgr-ksmt/PDFGenerator
 
