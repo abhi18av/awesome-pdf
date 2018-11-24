@@ -3,83 +3,54 @@ List of tools for dealing with the wonderful PDF format.
 
 ## R
 
-https://github.com/ropensci/fulltext R
+* fulltext https://github.com/ropensci/fulltext
 
 
 ## PHP
 
 
-https://github.com/PHPOffice/PHPWord
-php
+* PHPWord https://github.com/PHPOffice/PHPWord
 
-https://github.com/smalot/pdfparser
-php
+* pdfparser https://github.com/smalot/pdfparser
 
+* resume https://github.com/there4/markdown-resume
 
+* mpdf https://github.com/mpdf/mpdf
 
-https://github.com/there4/markdown-resume
-php
+* PHPPdf https://github.com/psliwa/PHPPdf
 
+* pyfpdf https://github.com/reingart/pyfpdf
 
+* browsershot https://github.com/spatie/browsershot
 
-https://github.com/mpdf/mpdf
-php
+* snappy https://github.com/KnpLabs/snappy
 
+* laravel-pdf https://github.com/niklasravnsborg/laravel-pdf
 
-https://github.com/psliwa/PHPPdf
-php
+* dompdf https://github.com/dompdf/dompdf
 
+* laravel-dompdf https://github.com/barryvdh/laravel-dompdf
 
-https://github.com/reingart/pyfpdf
-php
+* html2pdf https://github.com/spipu/html2pdf
 
+* pdf-to-image https://github.com/spatie/pdf-to-image
 
-
-https://github.com/spatie/browsershot
-php
-
-
-
-https://github.com/KnpLabs/snappy
-PHP
-
-https://github.com/niklasravnsborg/laravel-pdf
-php
-
-https://github.com/dompdf/dompdf
-php
-
-https://github.com/barryvdh/laravel-dompdf
-php
-
-https://github.com/spipu/html2pdf
-php
-
-
-https://github.com/spatie/pdf-to-image
-php
-
-https://github.com/Setasign/FPDF
-php
+* FPDF https://github.com/Setasign/FPDF
 
 
 
 
 ## C++ 
 
-https://github.com/coolwanglu/pdf2htmlEX
-c++
+* pdf2htmlEX https://github.com/coolwanglu/pdf2htmlEX
 
-https://github.com/wkhtmltopdf/wkhtmltopdf
-c++
+* wkhtmltopdf https://github.com/wkhtmltopdf/wkhtmltopdf
 
 
-https://github.com/sumatrapdfreader/sumatrapdf
-c++
+* sumatrapdf https://github.com/sumatrapdfreader/sumatrapdf
 
 
-https://github.com/ldenoue/pdftojson
-c++
+* pdftojson https://github.com/ldenoue/pdftojson
 
 
 
@@ -88,51 +59,33 @@ c++
 
 
 
-https://github.com/mileszs/wicked_pdf
-ruby
+* pdf https://github.com/mileszs/wicked_pdf
 
-https://github.com/pdfkit/pdfkit
-ruby
+* pdfkit https://github.com/pdfkit/pdfkit
 
-https://github.com/yob/pdf-reader
-ruby
+* reader https://github.com/yob/pdf-reader
 
+* rghost https://github.com/shairontoledo/rghost
 
-https://github.com/shairontoledo/rghost
-ruby
+* docsplit https://github.com/documentcloud/docsplit
 
+* kitabu https://github.com/fnando/kitabu
 
+* hexapdf https://github.com/gettalong/hexapdf
 
-https://github.com/documentcloud/docsplit
-ruby
+* gimli https://github.com/walle/gimli
 
-https://github.com/fnando/kitabu
-ruby
+* yomu https://github.com/yomurb/yomu
 
-https://github.com/gettalong/hexapdf
-ruby
+* pdfextract https://github.com/CrossRef/pdfextract
 
-https://github.com/walle/gimli
-ruby
+* printer https://github.com/strzibny/invoice_printer
 
-https://github.com/yomurb/yomu
-ruby
+* inspector https://github.com/prawnpdf/pdf-inspector
 
-https://github.com/CrossRef/pdfextract
-ruby
+* princely https://github.com/mbleigh/princely
 
-
-https://github.com/strzibny/invoice_printer
-ruby
-
-https://github.com/prawnpdf/pdf-inspector
-ruby
-
-https://github.com/mbleigh/princely
-ruby
-
-https://github.com/jonmagic/grim
-ruby
+* grim https://github.com/jonmagic/grim
 
 
 
@@ -140,84 +93,57 @@ ruby
 ## PYTHON
 
 
-https://github.com/jcushman/pdfquery
-python
+* pdfquery https://github.com/jcushman/pdfquery
 
-https://github.com/tushar-rishav/code2pdf
-python
+* code2pdf https://github.com/tushar-rishav/code2pdf
 
-https://github.com/mstamy2/PyPDF2
-python
+* PyPDF2 https://github.com/mstamy2/PyPDF2
 
-https://github.com/kanzure/pdfparanoia
-python
+* pdfparanoia https://github.com/kanzure/pdfparanoia
 
-https://github.com/brechtm/rinohtype
-python
+* rinohtype https://github.com/brechtm/rinohtype
 
-https://github.com/jsvine/pdfplumber
-python
+* pdfplumber https://github.com/jsvine/pdfplumber
 
-https://github.com/JoshData/pdf-diff
-python
+* pdf-diff https://github.com/JoshData/pdf-diff
 
-https://github.com/m3nu/invoice2data
-python
+* invoice2data https://github.com/m3nu/invoice2data
 
-https://github.com/elipapa/markdown-cv
+* cv https://github.com/elipapa/markdown-cv
 
-https://github.com/spatie/pdf-to-text
-python
+* pdf-to-text https://github.com/spatie/pdf-to-text
 
-https://github.com/matthiask/pdfdocument
-python
+* pdfdocument https://github.com/matthiask/pdfdocument
 
-https://github.com/arxiv-vanity/arxiv-vanity
-python
+* vanity https://github.com/arxiv-vanity/arxiv-vanity
 
-https://github.com/lzjun567/crawler_html2pdf
-python
+* crawler-html2pdf https://github.com/lzjun567/crawler_html2pdf
 
-https://github.com/davidadamojr/TextRank
-python
+* TextRank https://github.com/davidadamojr/TextRank
 
+* pdfkit https://github.com/JazzCore/python-pdfkit
 
-https://github.com/JazzCore/python-pdfkit
-python
+* OCRmyPDF https://github.com/jbarlow83/OCRmyPDF
 
-https://github.com/jbarlow83/OCRmyPDF
-python
+* pdfx https://github.com/metachris/pdfx
 
-https://github.com/metachris/pdfx
-python
+* pdfrw https://github.com/pmaupin/pdfrw
 
-https://github.com/pmaupin/pdfrw
-python
+* pdfminer https://github.com/euske/pdfminer
 
+* paperwork https://github.com/openpaperwork/paperwork
 
-https://github.com/euske/pdfminer
-python
+* open-paperless https://github.com/zhoubear/open-paperless
 
-https://github.com/openpaperwork/paperwork
-python
+* PyPDF2 https://github.com/mstamy2/PyPDF2
 
-https://github.com/zhoubear/open-paperless
-python
+* WeasyPrint https://github.com/Kozea/WeasyPrint
 
-https://github.com/mstamy2/PyPDF2
-python
+* xhtml2pdf https://github.com/xhtml2pdf/xhtml2pdf
 
-https://github.com/Kozea/WeasyPrint
-python
+* pdftabextract https://github.com/WZBSocialScienceCenter/pdftabextract
 
-https://github.com/xhtml2pdf/xhtml2pdf
-python
-
-https://github.com/WZBSocialScienceCenter/pdftabextract
-python
-
-https://github.com/jlsutherland/doc2text
-python
+* doc2text https://github.com/jlsutherland/doc2text
 
 
 
@@ -225,79 +151,56 @@ python
 
 ## OCAML
 
-https://github.com/ANSSI-FR/caradoc
-ocaml
+* caradoc https://github.com/ANSSI-FR/caradoc
 
 ## HASKELL
 
-https://github.com/Yuras/pdf-toolbox
-haskell
+* toolbox https://github.com/Yuras/pdf-toolbox
 
 ## JAVA
 
-https://pdfbox.apache.org/
-java
+* pdfbox https://pdfbox.apache.org/
 
+* PDFLayoutTextStripper https://github.com/JonathanLink/PDFLayoutTextStripper
 
-https://github.com/JonathanLink/PDFLayoutTextStripper
-java
+* pdf2json https://github.com/modesty/pdf2json
 
+* itextpdf https://github.com/itext/itextpdf
 
-https://github.com/modesty/pdf2json
-java
+* pdfsam https://github.com/torakiki/pdfsam
 
-https://github.com/itext/itextpdf
-java
+* java https://github.com/tabulapdf/tabula-java
 
+* xdocreport https://github.com/opensagres/xdocreport
 
-https://github.com/torakiki/pdfsam
-java
+* openhtmltopdf https://github.com/danfickle/openhtmltopdf
 
-https://github.com/tabulapdf/tabula-java
-java
+* docs-to-pdf-converter https://github.com/yeokm1/docs-to-pdf-converter
 
-https://github.com/opensagres/xdocreport
-java
+* yarg https://github.com/cuba-platform/yarg
 
-https://github.com/danfickle/openhtmltopdf
-java
+* veraPDF-library https://github.com/veraPDF/veraPDF-library
 
-
-https://github.com/yeokm1/docs-to-pdf-converter
-java
-
-https://github.com/cuba-platform/yarg
-java
-
-https://github.com/veraPDF/veraPDF-library
-java
-
-
-https://github.com/TIBCOSoftware/jasperreports
-java
+* jasperreports https://github.com/TIBCOSoftware/jasperreports
 
 
 
 ## SCALA
 
-https://github.com/cloudify/sPDF 
+* sPDF  https://github.com/cloudify/sPDF 
 
 ## CLOJURE
 
-https://github.com/clj-pdf/clj-pdf
-clojure
+* pdf https://github.com/clj-pdf/clj-pdf
 
 
 ## GO
 
-https://github.com/rsc/pdf
-go
+* pdf https://github.com/rsc/pdf
 
-https://github.com/sajari/docconv
-go
+* docconv https://github.com/sajari/docconv
 
-https://github.com/jung-kurt/gofpdf
-go
+* gofpdf https://github.com/jung-kurt/gofpdf
 
 https://github.com/signintech/gopdf
 go
