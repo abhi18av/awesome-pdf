@@ -38,7 +38,7 @@ List of tools for dealing with the wonderful PDF format.
 
 - [dompdf](https://github.com/dompdf/dompdf)
 
-- [laravel dompdf] (https://github.com/barryvdh/laravel-dompdf)
+- [laravel dompdf](https://github.com/barryvdh/laravel-dompdf)
 
 - [html2pdf](https://github.com/spipu/html2pdf)
 
