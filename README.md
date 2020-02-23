@@ -34,15 +34,15 @@ List of tools for dealing with the wonderful PDF format.
 
 - [snappy](https://github.com/KnpLabs/snappy)
 
-- [laravel](pdf https://github.com/niklasravnsborg/laravel-pdf)
+- [laravel pdf](https://github.com/niklasravnsborg/laravel-pdf)
 
 - [dompdf](https://github.com/dompdf/dompdf)
 
-- [laravel](dompdf https://github.com/barryvdh/laravel-dompdf)
+- [laravel dompdf] (https://github.com/barryvdh/laravel-dompdf)
 
 - [html2pdf](https://github.com/spipu/html2pdf)
 
-- [pdf](to-image https://github.com/spatie/pdf-to-image)
+- [pdf to-image](https://github.com/spatie/pdf-to-image)
 
 - [FPDF](https://github.com/Setasign/FPDF)
 
