@@ -74,6 +74,8 @@ List of tools for dealing with the wonderful PDF format.
 
 - [printer](https://github.com/strzibny/invoice_printer)
 
+- [PyMuPDF](https://github.com/pymupdf/PyMuPDF)
+
 - [inspector](https://github.com/prawnpdf/pdf-inspector)
 
 - [princely](https://github.com/mbleigh/princely)
