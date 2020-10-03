@@ -2,6 +2,9 @@
 
 List of tools for dealing with the wonderful PDF format.
 
+## API
+- [DocRaptor](https://docraptor.com) - Based on Prince, with libraries in PHP, Python, Node.js, Ruby, Java, and .NET
+
 ## C
 
 - [PdfiumViewer](https://github.com/pvginkel/PdfiumViewer)
