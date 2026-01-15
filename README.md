@@ -143,6 +143,9 @@ List of tools for dealing with the wonderful PDF format.
 
 - [caradoc](https://github.com/ANSSI-FR/caradoc)
 
+## Online PDF Tools
+- [AllInOneTools](https://allinonetools.net/pdf-tools) – Privacy-first online PDF tools to convert, compress, merge, and edit PDFs directly in the browser (no uploads, no sign-up).
+
 ## HASKELL
 
 - [toolbox](https://github.com/Yuras/pdf-toolbox)
