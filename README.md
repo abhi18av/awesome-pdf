@@ -145,6 +145,7 @@ List of tools for dealing with the wonderful PDF format.
 
 ## Online PDF Tools
 - [AllInOneTools](https://allinonetools.net/pdf-tools) – Privacy-first online PDF tools to convert, compress, merge, and edit PDFs directly in the browser (no uploads, no sign-up).
+- [renamed.to](https://www.renamed.to) – AI-powered file renaming tool that reads PDF content (invoices, contracts, receipts) and generates descriptive filenames automatically. Also available as a [CLI tool](https://github.com/upspawn/cli.renamed.to) and [SDK](https://github.com/renamed-to/renamed-sdk).
 
 ## HASKELL
 
