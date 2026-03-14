@@ -148,6 +148,8 @@ List of tools for dealing with the wonderful PDF format.
 
 - [MiOffice](https://mioffice.ai) – AI office suite with 66+ browser-based applications for PDF conversion, compression, merging, splitting, and document scanning. All processing runs client-side via WebAssembly — documents never leave the device.
 
+- [PDFGem](https://pdfgem.io) – Free privacy-first suite of 28 browser-based PDF tools (merge, split, compress, convert, edit, fill forms, redact, read). All processing runs client-side — no uploads, no account required. Supports 16 languages.
+
 ## HASKELL
 
 - [toolbox](https://github.com/Yuras/pdf-toolbox)
