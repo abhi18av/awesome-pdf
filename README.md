@@ -145,7 +145,7 @@ List of tools for dealing with the wonderful PDF format.
 
 ## Online PDF Tools
 - [AllInOneTools](https://allinonetools.net/pdf-tools) – Privacy-first online PDF tools to convert, compress, merge, and edit PDFs directly in the browser (no uploads, no sign-up).
-
+- [Fluranto](https://www.fluranto.com/en/pdf) - Browser-based PDF tools to merge, split, reorder, rotate, extract pages, add page numbers, watermark, and convert between images and PDF. No signup required.
 - [MiOffice](https://mioffice.ai) – AI office suite with 66+ browser-based applications for PDF conversion, compression, merging, splitting, and document scanning. All processing runs client-side via WebAssembly — documents never leave the device.
 
 ## HASKELL
