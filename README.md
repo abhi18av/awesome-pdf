@@ -148,6 +148,8 @@ List of tools for dealing with the wonderful PDF format.
 - [Fluranto](https://www.fluranto.com/en/pdf) - Browser-based PDF tools to merge, split, reorder, rotate, extract pages, add page numbers, watermark, and convert between images and PDF. No signup required.
 - [MiOffice](https://mioffice.ai) – AI office suite with 66+ browser-based applications for PDF conversion, compression, merging, splitting, and document scanning. All processing runs client-side via WebAssembly — documents never leave the device.
 
+- [PDFKit](https://pdfkit.davrapps.dev) – Free online PDF tools: merge, split, compress, rotate PDFs and convert between PDF and images. 100% client-side — files never leave the browser. No signup required.
+
 ## HASKELL
 
 - [toolbox](https://github.com/Yuras/pdf-toolbox)
