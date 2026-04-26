@@ -151,6 +151,8 @@ List of tools for dealing with the wonderful PDF format.
 
 - [PDFGem](https://pdfgem.io) – Free privacy-first suite of 28 browser-based PDF tools (merge, split, compress, convert, edit, fill forms, redact, read). All processing runs client-side — no uploads, no account required. Supports 16 languages.
 
+- [PDF Dark](https://pdfdark.org) – Free open-source browser-based PDF dark-mode converter. Saturation-based algorithm inverts text and line art while preserving images and charts in their original colors. 4 themes (Midnight, Sepia, Solarized, OLED). All processing runs client-side — no uploads, no account required. MIT licensed.
+
 ## HASKELL
 
 - [toolbox](https://github.com/Yuras/pdf-toolbox)
