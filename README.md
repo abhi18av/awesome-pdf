@@ -2,6 +2,10 @@
 
 List of tools for dealing with the wonderful PDF format.
 
+## API
+- [DocRaptor](https://docraptor.com) - Based on Prince, with libraries in PHP, Python, Node.js, Ruby, Java, and .NET
+- [PDFBolt](https://pdfbolt.com/docs) - HTML to PDF conversion API with Chromium rendering, templates, and AI generation
+
 ## C
 
 - [PdfiumViewer](https://github.com/pvginkel/PdfiumViewer)
@@ -34,15 +38,15 @@ List of tools for dealing with the wonderful PDF format.
 
 - [snappy](https://github.com/KnpLabs/snappy)
 
-- [laravel](pdf https://github.com/niklasravnsborg/laravel-pdf)
+- [laravel pdf](https://github.com/niklasravnsborg/laravel-pdf)
 
 - [dompdf](https://github.com/dompdf/dompdf)
 
-- [laravel](dompdf https://github.com/barryvdh/laravel-dompdf)
+- [laravel dompdf](https://github.com/barryvdh/laravel-dompdf)
 
 - [html2pdf](https://github.com/spipu/html2pdf)
 
-- [pdf](to-image https://github.com/spatie/pdf-to-image)
+- [pdf to-image](https://github.com/spatie/pdf-to-image)
 
 - [FPDF](https://github.com/Setasign/FPDF)
 
@@ -126,6 +130,8 @@ List of tools for dealing with the wonderful PDF format.
 
 - [PyPDF2](https://github.com/mstamy2/PyPDF2)
 
+- [PyMuPDF](https://github.com/pymupdf/PyMuPDF)
+
 - [WeasyPrint](https://github.com/Kozea/WeasyPrint)
 
 - [xhtml2pdf](https://github.com/xhtml2pdf/xhtml2pdf)
@@ -137,6 +143,14 @@ List of tools for dealing with the wonderful PDF format.
 ## OCAML
 
 - [caradoc](https://github.com/ANSSI-FR/caradoc)
+
+## Online PDF Tools
+- [AllInOneTools](https://allinonetools.net/pdf-tools) – Privacy-first online PDF tools to convert, compress, merge, and edit PDFs directly in the browser (no uploads, no sign-up).
+- [AllPDFMagic](https://allpdfmagic.com) – 33+ free online PDF tools with AI workflows. Merge, compress, convert, edit, sign, and protect PDFs — no signup required, no daily limits.
+- [Fluranto](https://www.fluranto.com/en/pdf) - Browser-based PDF tools to merge, split, reorder, rotate, extract pages, add page numbers, watermark, and convert between images and PDF. No signup required.
+- [MiOffice](https://mioffice.ai) – AI office suite with 66+ browser-based applications for PDF conversion, compression, merging, splitting, and document scanning. All processing runs client-side via WebAssembly — documents never leave the device.
+
+- [PDFGem](https://pdfgem.io) – Free privacy-first suite of 28 browser-based PDF tools (merge, split, compress, convert, edit, fill forms, redact, read). All processing runs client-side — no uploads, no account required. Supports 16 languages.
 
 ## HASKELL
 
