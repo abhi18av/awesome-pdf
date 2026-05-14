@@ -269,4 +269,8 @@ List of tools for dealing with the wonderful PDF format.
 
 ## SWIFT
 
+## Online PDF Tools (Browser-Based)
+
+- [EveryTool4U](https://everytool4u.com) - 108 free browser-based PDF tools (merge, compress, sign, OCR, redact, convert). Files never uploaded to any server — 100% private, works offline, no account needed.
+
 - [PDFGenerator](https://github.com/sgr-ksmt/PDFGenerator)
