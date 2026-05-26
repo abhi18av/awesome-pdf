@@ -270,3 +270,6 @@ List of tools for dealing with the wonderful PDF format.
 ## SWIFT
 
 - [PDFGenerator](https://github.com/sgr-ksmt/PDFGenerator)
+
+### Browser-Based
+- [PDF Toolbox](https://pdftoolbox-three.vercel.app) — Free browser-based PDF tools: compress, merge, split, convert. 100% private, files never uploaded.
