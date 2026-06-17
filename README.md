@@ -4,6 +4,7 @@ List of tools for dealing with the wonderful PDF format.
 
 ## API
 - [DocRaptor](https://docraptor.com) - Based on Prince, with libraries in PHP, Python, Node.js, Ruby, Java, and .NET
+- [HTPBE](https://htpbe.tech/api) - Forensic REST API to detect tampered or modified PDFs from the structural layer (metadata, xref, incremental updates, signatures); no original file needed.
 - [PDFBolt](https://pdfbolt.com/docs) - HTML to PDF conversion API with Chromium rendering, templates, and AI generation
 
 ## C
