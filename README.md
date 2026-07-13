@@ -151,6 +151,8 @@ List of tools for dealing with the wonderful PDF format.
 
 - [PDFGem](https://pdfgem.io) – Free privacy-first suite of 28 browser-based PDF tools (merge, split, compress, convert, edit, fill forms, redact, read). All processing runs client-side — no uploads, no account required. Supports 16 languages.
 
+- [Slay PDF](https://slaypdf.com/) – Free local browser PDF editor for splitting, merging, signing, resizing, posterising and editing PDFs. No account or server upload required.
+
 ## HASKELL
 
 - [toolbox](https://github.com/Yuras/pdf-toolbox)
