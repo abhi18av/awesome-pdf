@@ -5,6 +5,7 @@ List of tools for dealing with the wonderful PDF format.
 ## API
 - [DocRaptor](https://docraptor.com) - Based on Prince, with libraries in PHP, Python, Node.js, Ruby, Java, and .NET
 - [PDFBolt](https://pdfbolt.com/docs) - HTML to PDF conversion API with Chromium rendering, templates, and AI generation
+- [PDFik](https://pdfik.net) - Async HTML/URL to PDF API with signed webhooks, free test mode, and JS/Python/Java SDKs
 
 ## C
 
