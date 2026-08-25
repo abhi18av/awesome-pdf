@@ -216,6 +216,7 @@ List of tools for dealing with the wonderful PDF format.
 ## JAVASCRIPT
 
 - [resumake](https://github.com/saadq/resumake)
+- [Inko](https://github.com/sinabin/inko-sdk) - Self-hosted PDF annotation SDK that returns review state as a separate value for host-managed storage.
 
 - [pdf](https://github.com/fraserxu/electron-pdf)
 
