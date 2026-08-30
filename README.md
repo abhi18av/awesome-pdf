@@ -269,6 +269,10 @@ List of tools for dealing with the wonderful PDF format.
 
 - [invoice-boilerplate](https://github.com/mrzool/invoice-boilerplate)
 
+## RUST
+
+- [pdf_oxide](https://github.com/yfedoseev/pdf_oxide) - Fast Rust-core PDF library for text and image extraction and markdown conversion, with bindings for Python, Go, JS/TS, C#/.NET, Java/Kotlin, PHP, Ruby, and WASM, plus a CLI and MCP server
+
 ## SWIFT
 
 - [PDFGenerator](https://github.com/sgr-ksmt/PDFGenerator)
