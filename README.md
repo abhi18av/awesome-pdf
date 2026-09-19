@@ -139,6 +139,7 @@ List of tools for dealing with the wonderful PDF format.
 
 - [pdftabextract](https://github.com/WZBSocialScienceCenter/pdftabextract)
 
+
 - [doc2text](https://github.com/jlsutherland/doc2text)
 
 ## OCAML
@@ -146,6 +147,7 @@ List of tools for dealing with the wonderful PDF format.
 - [caradoc](https://github.com/ANSSI-FR/caradoc)
 
 ## Online PDF Tools
+- [PDFPilot](https://pdfpilot.net/) – Free browser-based PDF toolkit for merging, splitting, compressing, converting, OCR, editing, and more. No account is required, and PDF files are processed in the browser.
 - [AllInOneTools](https://allinonetools.net/pdf-tools) – Privacy-first online PDF tools to convert, compress, merge, and edit PDFs directly in the browser (no uploads, no sign-up).
 - [Fluranto](https://www.fluranto.com/en/pdf) - Browser-based PDF tools to merge, split, reorder, rotate, extract pages, add page numbers, watermark, and convert between images and PDF. No signup required.
 - [MiOffice](https://mioffice.ai) – AI office suite with 66+ browser-based applications for PDF conversion, compression, merging, splitting, and document scanning. All processing runs client-side via WebAssembly — documents never leave the device.
