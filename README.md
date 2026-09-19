@@ -138,7 +138,7 @@ List of tools for dealing with the wonderful PDF format.
 - [xhtml2pdf](https://github.com/xhtml2pdf/xhtml2pdf)
 
 - [pdftabextract](https://github.com/WZBSocialScienceCenter/pdftabextract)
-- - [
+
 
 - [doc2text](https://github.com/jlsutherland/doc2text)
 
