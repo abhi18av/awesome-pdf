@@ -272,3 +272,8 @@ List of tools for dealing with the wonderful PDF format.
 ## SWIFT
 
 - [PDFGenerator](https://github.com/sgr-ksmt/PDFGenerator)
+
+
+## Online PDF Tools
+
+- [ToolVero](https://toolvero.co/categories/pdf-tools/) – Free privacy-first browser-based PDF tools to merge, split, compress, organize and convert documents without an account.
