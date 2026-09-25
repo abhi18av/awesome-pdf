@@ -141,6 +141,8 @@ List of tools for dealing with the wonderful PDF format.
 
 - [doc2text](https://github.com/jlsutherland/doc2text)
 
+- [pdfmux](https://github.com/NameetP/pdfmux) - Routes each PDF page to the best backend (PyMuPDF, Docling, RapidOCR, Gemini Flash) and attaches a per-page confidence score
+
 ## OCAML
 
 - [caradoc](https://github.com/ANSSI-FR/caradoc)
