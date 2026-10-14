@@ -3,6 +3,7 @@
 List of tools for dealing with the wonderful PDF format.
 
 ## API
+- [CurlShot](https://curlshot.com/tools/html-to-pdf) - HTML, Markdown or URL to PDF API with Chromium rendering, paper sizes and margins; also returns PNG, JPEG and WebP screenshots. Free plan with 100 renders a month
 - [DocRaptor](https://docraptor.com) - Based on Prince, with libraries in PHP, Python, Node.js, Ruby, Java, and .NET
 - [PDFBolt](https://pdfbolt.com/docs) - HTML to PDF conversion API with Chromium rendering, templates, and AI generation
 - [PDFGate](https://pdfgate.com) - Generate PDFs, add form and signature fields, and send documents for e-signature.
