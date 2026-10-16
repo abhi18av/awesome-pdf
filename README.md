@@ -141,6 +141,8 @@ List of tools for dealing with the wonderful PDF format.
 
 - [doc2text](https://github.com/jlsutherland/doc2text)
 
+- [PubAudit](https://github.com/alapha888/pubaudit)
+
 ## OCAML
 
 - [caradoc](https://github.com/ANSSI-FR/caradoc)
