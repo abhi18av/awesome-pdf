@@ -152,7 +152,7 @@ List of tools for dealing with the wonderful PDF format.
 
 - [PDFGem](https://pdfgem.io) – Free privacy-first suite of 28 browser-based PDF tools (merge, split, compress, convert, edit, fill forms, redact, read). All processing runs client-side — no uploads, no account required. Supports 16 languages.
 - [abcdtools](https://abcdtools.in) – Free PDF & image tools (merge, split, compress, rotate, watermark, organize, crop, and more) that run 100% client-side in the browser — no uploads, no account, no limits.
-- [MergeCraft](https://mergecraft.app) – Free, privacy-first PDF toolkit that runs 100% client-side in the browser (Web Workers + WebAssembly): merge PDFs and images (JPG/PNG/WebP), split, compress, extract pages as PNG/JPEG, rotate. Files are never uploaded, verifiable in the browser's Network tab. No account, no file limits, no watermarks; installable offline PWA; 9 languages.
+- [MergeCraft](https://mergecraft.app) – Free, privacy-first PDF toolkit that runs 100% client-side in the browser (Web Workers + WebAssembly): merge PDFs and images (JPG/PNG/WebP), split, compress, extract pages as PNG/JPEG, rotate. Files are never uploaded, verifiable in the browser's Network tab. No account, no watermarks; installable offline PWA; 9 languages.
 
 ## HASKELL
 
