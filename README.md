@@ -146,13 +146,13 @@ List of tools for dealing with the wonderful PDF format.
 - [caradoc](https://github.com/ANSSI-FR/caradoc)
 
 ## Online PDF Tools
-- [MergeCraft](https://mergecraft.app) – Free browser-based toolkit to merge, split, compress and rotate PDFs or mix them with images. Fully client-side via WebAssembly — files never leave the device. No sign-up, no limits, 9 languages.
 - [AllInOneTools](https://allinonetools.net/pdf-tools) – Privacy-first online PDF tools to convert, compress, merge, and edit PDFs directly in the browser (no uploads, no sign-up).
 - [Fluranto](https://www.fluranto.com/en/pdf) - Browser-based PDF tools to merge, split, reorder, rotate, extract pages, add page numbers, watermark, and convert between images and PDF. No signup required.
 - [MiOffice](https://mioffice.ai) – AI office suite with 66+ browser-based applications for PDF conversion, compression, merging, splitting, and document scanning. All processing runs client-side via WebAssembly — documents never leave the device.
 
 - [PDFGem](https://pdfgem.io) – Free privacy-first suite of 28 browser-based PDF tools (merge, split, compress, convert, edit, fill forms, redact, read). All processing runs client-side — no uploads, no account required. Supports 16 languages.
 - [abcdtools](https://abcdtools.in) – Free PDF & image tools (merge, split, compress, rotate, watermark, organize, crop, and more) that run 100% client-side in the browser — no uploads, no account, no limits.
+- [MergeCraft](https://mergecraft.app) – Free, privacy-first PDF toolkit that runs 100% client-side in the browser (Web Workers + WebAssembly): merge PDFs and images (JPG/PNG/WebP), split, compress, extract pages as PNG/JPEG, rotate. Files are never uploaded, verifiable in the browser's Network tab. No account, no file limits, no watermarks; installable offline PWA; 9 languages.
 
 ## HASKELL
 
