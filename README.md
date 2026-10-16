@@ -152,6 +152,7 @@ List of tools for dealing with the wonderful PDF format.
 
 - [PDFGem](https://pdfgem.io) – Free privacy-first suite of 28 browser-based PDF tools (merge, split, compress, convert, edit, fill forms, redact, read). All processing runs client-side — no uploads, no account required. Supports 16 languages.
 - [abcdtools](https://abcdtools.in) – Free PDF & image tools (merge, split, compress, rotate, watermark, organize, crop, and more) that run 100% client-side in the browser — no uploads, no account, no limits.
+- [JW Tool Box PDF Tools](https://www.jwtoolbox.com/tools/pdf-merge) - Browser-based PDF merge, split, page reorder and delete, compress, password removal (with the correct password) and PDF-to-image conversion. Files are processed locally, no account required. Limits apply, for example 15 MB per file when merging and 60 pages in the visual organizer; compression re-renders pages as images.
 
 ## HASKELL
 
