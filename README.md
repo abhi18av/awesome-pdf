@@ -272,3 +272,7 @@ List of tools for dealing with the wonderful PDF format.
 ## SWIFT
 
 - [PDFGenerator](https://github.com/sgr-ksmt/PDFGenerator)
+
+## RUST
+
+- [Glim](https://github.com/NeoPanic/Glim) - macOS file viewer built with Rust and GPUI Kit, with native PDFKit-based read-only PDF previews.
