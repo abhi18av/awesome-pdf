@@ -151,6 +151,7 @@ List of tools for dealing with the wonderful PDF format.
 - [MiOffice](https://mioffice.ai) – AI office suite with 66+ browser-based applications for PDF conversion, compression, merging, splitting, and document scanning. All processing runs client-side via WebAssembly — documents never leave the device.
 
 - [PDFGem](https://pdfgem.io) – Free privacy-first suite of 28 browser-based PDF tools (merge, split, compress, convert, edit, fill forms, redact, read). All processing runs client-side — no uploads, no account required. Supports 16 languages.
+- [PDF/UA check](https://nyo-agentti.github.io/pdf.html) – Free online PDF/UA-1 accessibility check with veraPDF, showing the failed rules before and after an automatic metadata-level fix (title, language, tab order, MarkInfo). The file is uploaded to the checker and deleted after the result; untagged PDFs are reported, not fixed; downloading the fixed file is paid (19 €).
 - [abcdtools](https://abcdtools.in) – Free PDF & image tools (merge, split, compress, rotate, watermark, organize, crop, and more) that run 100% client-side in the browser — no uploads, no account, no limits.
 
 ## HASKELL
