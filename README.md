@@ -152,6 +152,7 @@ List of tools for dealing with the wonderful PDF format.
 
 - [PDFGem](https://pdfgem.io) – Free privacy-first suite of 28 browser-based PDF tools (merge, split, compress, convert, edit, fill forms, redact, read). All processing runs client-side — no uploads, no account required. Supports 16 languages.
 - [abcdtools](https://abcdtools.in) – Free PDF & image tools (merge, split, compress, rotate, watermark, organize, crop, and more) that run 100% client-side in the browser — no uploads, no account, no limits.
+- [OpenP7M](https://openp7m.com/en/) – Read PDFs inside P7M files and supported Italian FatturaPA XML in your browser. The full preview is free with a watermark; single-file export costs €1.99. Local integrity checks do not verify certificate trust, revocation, or legal signature validity.
 
 ## HASKELL
 
