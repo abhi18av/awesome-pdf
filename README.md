@@ -261,6 +261,8 @@ List of tools for dealing with the wonderful PDF format.
 
 * [textract](https://github.com/dbashford/textract)
 
+* [pdf-view-coords](https://github.com/AlonDrilich/pdf-view-coords)
+
 ## LATEX
 
 - [cv-boilerplate](https://github.com/mrzool/cv-boilerplate)
