@@ -6,6 +6,7 @@ List of tools for dealing with the wonderful PDF format.
 - [DocRaptor](https://docraptor.com) - Based on Prince, with libraries in PHP, Python, Node.js, Ruby, Java, and .NET
 - [PDFBolt](https://pdfbolt.com/docs) - HTML to PDF conversion API with Chromium rendering, templates, and AI generation
 - [PDFGate](https://pdfgate.com) - Generate PDFs, add form and signature fields, and send documents for e-signature.
+- [WebCapture](https://webcapture.io) - URL to PDF, screenshot and Markdown conversion API with Chromium rendering, anti-bot handling, and an MCP server for AI agents
 
 ## C
 
