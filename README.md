@@ -141,6 +141,9 @@ List of tools for dealing with the wonderful PDF format.
 
 - [doc2text](https://github.com/jlsutherland/doc2text)
 
+* [pdf-table-pull-lite](https://github.com/tidybytetools/pdf-table-pull-lite) - Extract tables from text PDFs to CSV. Free CLI and MCP server.
+* [doc2md-lite](https://github.com/tidybytetools/doc2md-lite) - Convert text PDFs and HTML to clean Markdown with real tables. Free CLI and MCP server.
+
 ## OCAML
 
 - [caradoc](https://github.com/ANSSI-FR/caradoc)
