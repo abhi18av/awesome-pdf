@@ -152,6 +152,7 @@ List of tools for dealing with the wonderful PDF format.
 
 - [PDFGem](https://pdfgem.io) – Free privacy-first suite of 28 browser-based PDF tools (merge, split, compress, convert, edit, fill forms, redact, read). All processing runs client-side — no uploads, no account required. Supports 16 languages.
 - [abcdtools](https://abcdtools.in) – Free PDF & image tools (merge, split, compress, rotate, watermark, organize, crop, and more) that run 100% client-side in the browser — no uploads, no account, no limits.
+- [PDFwarp](https://pdfwarp.com) – Free online PDF tools to merge, split, compress, rotate and convert Word, Excel, PowerPoint and images to PDF. Files are uploaded to the server (not processed in the browser) and deleted as soon as the result is sent back. Guests get 2 conversions a day up to 10 MB, a free account 5 a day up to 25 MB; the AI tools are Pro.
 
 ## HASKELL
 
