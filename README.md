@@ -99,6 +99,8 @@ List of tools for dealing with the wonderful PDF format.
 
 - [pdfplumber](https://github.com/jsvine/pdfplumber)
 
+- [PageProof](https://github.com/hymzh945-hash/pageproof) - Audits a PDF for print: mixed page sizes, text inside the trim, scanned pages without a text layer, placed images under 150 DPI.
+
 - [pdf-diff](https://github.com/JoshData/pdf-diff)
 
 - [invoice2data](https://github.com/m3nu/invoice2data)
