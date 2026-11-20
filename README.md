@@ -152,6 +152,7 @@ List of tools for dealing with the wonderful PDF format.
 
 - [PDFGem](https://pdfgem.io) – Free privacy-first suite of 28 browser-based PDF tools (merge, split, compress, convert, edit, fill forms, redact, read). All processing runs client-side — no uploads, no account required. Supports 16 languages.
 - [abcdtools](https://abcdtools.in) – Free PDF & image tools (merge, split, compress, rotate, watermark, organize, crop, and more) that run 100% client-side in the browser — no uploads, no account, no limits.
+- [PDF Fan – extract PDF pages in Spanish](https://pdf.fan/es/extraer-paginas-pdf/) - Select individual pages or ranges and export them as one PDF or individual files. Processes the source PDF in the browser and requires no account.
 
 ## HASKELL
 
