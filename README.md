@@ -261,6 +261,8 @@ List of tools for dealing with the wonderful PDF format.
 
 * [textract](https://github.com/dbashford/textract)
 
+* [papyrus](https://github.com/n-uf/papyrus) - HTML documents with print CSS, exported to PDF.
+
 ## LATEX
 
 - [cv-boilerplate](https://github.com/mrzool/cv-boilerplate)
