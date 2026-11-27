@@ -261,6 +261,8 @@ List of tools for dealing with the wonderful PDF format.
 
 * [textract](https://github.com/dbashford/textract)
 
+* [marmalade-open-press](https://github.com/easthillcc/marmalade-open-press) - HTML to print-ready CMYK PDF/X-4 with Chromium, K-only greys, PDF/X-1a via Ghostscript.
+
 ## LATEX
 
 - [cv-boilerplate](https://github.com/mrzool/cv-boilerplate)
